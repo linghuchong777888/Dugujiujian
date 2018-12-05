@@ -10,5 +10,7 @@ public class Dugujiujian {
         System.out.println("hello dugujiujian22222!");
         System.out.println("hello dugujiujian223323!!");
         System.out.println("hello dugujiujian44444!!!!");
+        System.out.println("hello dugujiujian44444!!!!");
+        System.out.println("hello 23233232!!!!");
     }
 }
